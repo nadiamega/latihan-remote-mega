@@ -1,0 +1,14 @@
+# Folder hasil build / kompilasi
+/build/
+/dist/
+/target/
+*.class
+
+# Settingan IDE
+.idea/
+/.vscode/
+nbproject/private/
+
+# File OS
+.DS_Store
+Thumbs.db
